@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  nodeApi: "api.tijn.club",
+  nodeApi: "nachoaverage.com",
   uploadImageHostname: "bitclout.com",
   dd: {
     apiKey: "DCEB26AC8BF47F1D7B4D87440EDCA6",
